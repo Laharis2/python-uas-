@@ -13,7 +13,8 @@
 ![A2 4](https://user-images.githubusercontent.com/91968610/142487186-28d8ac9d-a55d-4f57-bb6d-6ac157b5b63d.png)
 
 ![A2 5](https://user-images.githubusercontent.com/91968610/142487212-65b60c16-1188-4d07-9cb6-85d1d44ee7bd.png)
-![Uploading A2.6.png…]()
+![A2 6](https://user-images.githubusercontent.com/91968610/142487633-0ed3e1c4-0394-41b5-9bd3-5649332cda58.png)
+
 
 3. program menghitung luas segi tiga menggunakan fungsi luas_segitiga(alas,tinggi):
 
