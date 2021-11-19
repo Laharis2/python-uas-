@@ -21,3 +21,7 @@
 ![A3](https://user-images.githubusercontent.com/91968610/142487483-7e359580-f038-4ae6-b920-cef782848bb0.png)
 ![A4](https://user-images.githubusercontent.com/91968610/142487496-a6aad419-6d26-4d21-a491-8778cabf5699.png)
 
+4. program mencari nilai tertinggi menggunakan list, yang banyak datanya ditentukan oleh user:
+
+![A5](https://user-images.githubusercontent.com/91968610/142516071-6e645080-732a-4d8f-8c94-39cfc857f36f.png)
+![A6](https://user-images.githubusercontent.com/91968610/142516082-bead9162-e93f-4986-a0a7-13f985f38033.png)
